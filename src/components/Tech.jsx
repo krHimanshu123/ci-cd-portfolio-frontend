@@ -34,6 +34,7 @@ const skillCategories = [
       { name: "Python", icon: null, color: "#3776AB" }
     ]
   },
+  
   {
     title: "Frontend Development",
     skills: [
