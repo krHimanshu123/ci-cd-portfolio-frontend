@@ -40,6 +40,7 @@ const ServiceCard = ({ index, title, icon }) => (
   </Tilt>
 );
 
+
 const About = () => {
   return (
     <>
