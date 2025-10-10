@@ -20,6 +20,7 @@ const FeedbackCard = ({
   >
     <p className='text-white font-black text-[48px]'>"</p>
 
+    
     <div className='mt-1'>
       <p className='text-white tracking-wider text-[18px]'>{testimonial}</p>
 
