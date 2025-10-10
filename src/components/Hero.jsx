@@ -38,6 +38,7 @@ const Hero = () => {
     return () => ctx.revert();
   }, []);
 
+  
   // Animated subtitle cycling
   useEffect(() => {
     const interval = setInterval(() => {
