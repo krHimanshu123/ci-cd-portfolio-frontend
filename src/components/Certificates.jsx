@@ -13,6 +13,7 @@ const certificates = [
     image: "/accenture.png",
     verifyLink: "#",
   },
+  
   {
     title: "Aviatrix Certified Engineer (ACE) Multicloud Network Associate",
     year: "2024",
