@@ -17,6 +17,7 @@ export function useHeroGsapAnimation() {
         { opacity: 1, y: 0, duration: 0.8, ease: "power3.out" },
         "-=0.5"
       );
+    
     return () => tl.kill();
   }, []);
   return containerRef;
