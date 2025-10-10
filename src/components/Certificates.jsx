@@ -22,6 +22,7 @@ const certificates = [
     image: "/Aviatrix.png",
     verifyLink: "#",
   },
+  
   {
     title: "Salesforce Developer Virtual Internship",
     year: "2024",
