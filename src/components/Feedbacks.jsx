@@ -42,6 +42,7 @@ const FeedbackCard = ({
       </div>
     </div>
   </motion.div>
+  
 );
 
 const Feedbacks = () => {
