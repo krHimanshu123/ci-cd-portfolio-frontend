@@ -32,6 +32,7 @@ const ServiceCard = ({ index, title, icon }) => (
           animate={{ scale: 1, opacity: 1 }}
           transition={{ delay: 0.2 + index * 0.2, duration: 0.6, type: "spring" }}
         />
+        
         <h3 className='text-white text-[20px] font-bold text-center'>
           {title}
         </h3>
