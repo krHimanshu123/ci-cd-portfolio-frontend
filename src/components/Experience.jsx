@@ -40,6 +40,7 @@ const ExperienceCard = ({ experience }) => {
           <p className='text-secondary text-[16px] font-semibold' style={{ margin: 0 }}>
             {experience.company}
           </p>
+      
         )}
         {experience.location && (
           <p className='text-gray-400 text-[14px]' style={{ margin: 0 }}>
