@@ -55,6 +55,7 @@ const CertificateCard = ({ certificate, index }) => (
     <div className="mt-auto text-[13px] text-gray-400 italic">{certificate.type}</div>
     <div className="absolute inset-0 rounded-2xl pointer-events-none group-hover:opacity-60 opacity-40 transition-opacity duration-300 bg-gradient-to-br from-blue-500/10 to-pink-500/10" />
   </motion.div>
+  
 );
 
 const Certificates = () => (
