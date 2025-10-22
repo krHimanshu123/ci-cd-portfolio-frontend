@@ -25,6 +25,7 @@ const Contact = () => {
       ...form,
       [name]: value,
     });
+    
   };
 
   
