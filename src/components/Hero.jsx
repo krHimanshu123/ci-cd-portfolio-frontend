@@ -24,6 +24,7 @@ const Hero = () => {
         { y: 60, opacity: 0 },
         { y: 0, opacity: 1, duration: 1.2, ease: "power4.out", stagger: 0.2 }
       );
+      
       gsap.fromTo(
         ".hero-desc",
         { y: 40, opacity: 0 },
